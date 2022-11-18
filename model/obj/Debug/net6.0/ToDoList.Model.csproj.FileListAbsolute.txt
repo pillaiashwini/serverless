@@ -1,0 +1,15 @@
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.deps.json
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.dll
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.pdb
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Entities.dll
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Entities.pdb
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.AssemblyReference.cache
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.AssemblyInfoInputs.cache
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.AssemblyInfo.cs
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.CopyComplete
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.dll
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\refint\ToDoList.Model.dll
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.pdb
+C:\Users\ashwini.b.pillai\Desktop\Azure Developer Academy\azure\projects\serverless\src\model\obj\Debug\net6.0\ref\ToDoList.Model.dll
